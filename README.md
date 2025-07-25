@@ -14,5 +14,4 @@ My tools of choice include Python, SQL, Power BI, and Figma—with a passion for
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Shiny (Python)](https://img.shields.io/badge/-Shiny-1E88E5?style=flat&logo=python&logoColor=white)
