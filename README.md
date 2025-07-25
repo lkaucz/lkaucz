@@ -7,6 +7,7 @@ I’m a data analyst/engineer with a strong background in applied mathematics an
 My tools of choice include Python, SQL, Power BI, and Figma—with a passion for combining data analytics with UX to create clear, actionable insights. I believe in using technology to simplify complexity and make data truly useful.
 
 🎓 Certifications :
+
 [Data Engineering - Zoomcamp] [Data Engineering - GCP Specialization] [Machine Learning - UFPR] [Data Science Introduction - MIT] [Power BI avançado - Udemy] [Power Bi Specialist - Lean Solutions] [Python for ML - Udemy]
 
 🛠️ Languages and Tools :
