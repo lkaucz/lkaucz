@@ -11,4 +11,4 @@ GCP Datacamp FreeCodeCamp Datacamp CS50 Coursera
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
