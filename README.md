@@ -1,3 +1,5 @@
+##Hi, I'm Léo!##
+
 About Me :
 
 I’m a data analyst/engineer with a strong background in applied mathematics and mechanical engineering, currently focused on Business Intelligence, process optimization, and data automation. I have experience developing dashboards, predictive models, and end-to-end data solutions that support decision-making across logistics, finance, and manufacturing.
