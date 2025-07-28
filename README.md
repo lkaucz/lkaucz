@@ -30,10 +30,13 @@ ________________________________________________________________________________
 
 ---
 
-## 📈 GitHub Stats
+<div align="left">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkaucz&layout=compact&theme=dark" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lkaucz&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lkaucz&theme=dark" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkaucz&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lkaucz&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lkaucz&layout=compact&theme=dark)
+
 
 
