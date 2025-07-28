@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 <div align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkaucz&layout=compact&theme=dark" />
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lkaucz&show_icons=true&theme=dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lkaucz&theme=dark" />
 </div>
