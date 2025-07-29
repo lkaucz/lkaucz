@@ -3,9 +3,9 @@
 
 I’m a data analyst/engineer with a strong background in applied mathematics and mechanical engineering, currently focused on Business Intelligence, process optimization, and data automation. I have experience developing dashboards, predictive models, and end-to-end data solutions that support decision-making across logistics, finance, and manufacturing. With a passion for combining data analytics with UX to create clear, actionable insights. I believe in using technology to simplify complexity and make data truly useful.
 
-Mechanical engineer graduated from UFPR.
+° Mechanical engineer graduated from UFPR.
 
-Starting a PhD, whose supervisory team is made up of researchers from Cerema, the Univ de la Rochelle (LaSIE) and INSA Lyon/ Université Claude Bernard Lyon1 (CETHIL).
+° Starting a PhD, whose supervisory team is made up of researchers from Cerema, the Univ de la Rochelle (LaSIE) and INSA Lyon/ Université Claude Bernard Lyon1 (CETHIL).
 
 
 _________________________________________________________________________________________________________________________________________________________________________________________
