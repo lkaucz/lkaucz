@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
  ☁️ Deployment & Automation
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-F55247?style=flat&logo=n8n&logoColor=white) ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0078D4?style=flat&logo=powerautomate&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-F55247?style=flat&logo=n8n&logoColor=white) ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0078D4?style=flat&logo=powerautomate&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
 
 
