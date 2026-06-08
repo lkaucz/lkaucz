@@ -35,11 +35,6 @@ ________________________________________________________________________________
 ---
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkaucz&layout=compact&theme=dark" />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lkaucz&show_icons=true&theme=dark" width="48%" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=lkaucz&theme=dark" width="48%" />
 </div>
 
